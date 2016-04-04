@@ -1,0 +1,21 @@
+<VehicleRQ productType="1" returnStopSells='1' sendToMaster="false" returnOnRequest="1" cor="gb" lang="361" affiliateCode="" refClickId="" affiliateRefId="" loyaltyLevel="0" loyaltyDisplay="0"  channel="web">
+
+    <PickTime>2016-4-15 12:00</PickTime>
+    <DropTime>2016-4-20 12:00</DropTime>
+
+    <PickCountry>UK</PickCountry>
+    <PickCity>Manchester</PickCity>
+
+    <DropCountry>UK</DropCountry>
+    <DropCity>Manchester</DropCity>
+
+    <SourceMarket>UK_Offers</SourceMarket>
+    <DrvAge>35</DrvAge>
+    <OnSale>2</OnSale>
+    <DisplayCurrency>GBP</DisplayCurrency>
+    <RateQualifier partnerCode="" discountNbr="" accountNo="" rateCode=""/>
+    <PropositionTypes>BR,BP,RR</PropositionTypes>
+    <RemoteIP>192.168.0.1</RemoteIP>
+
+
+</VehicleRQ>
